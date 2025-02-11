@@ -33,7 +33,7 @@
 - HTML5, CSS3
 - <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,sass,bootstrap,figma,ae,electron,nestjs" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,sass,bootstrap,figma,ae,electron" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 - Server setup and app deployment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim,aws,bootstrap /> 
+    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim,aws,bootstrap" /> 
   </a>
 </p>
 
@@ -65,6 +65,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashraf0ev)
 
 ---
+
 ## 🚀 Goals for 2025
 - Master advanced React concepts and improve frontend development skills.
 - Contribute to open-source projects and strengthen my community presence.
