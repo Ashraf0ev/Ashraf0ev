@@ -35,12 +35,13 @@
     <img src="https://skillicons.dev/icons?i=js,react,html,css,sass,bootstrap,figma,ae,electron,nestjs" />
   </a>
 </p>
+
 ### DevOps:
-- Knowledge of **Bash**, using **Zsh**
+- Knowledge of **Bash**, using **Zsh*
 - Server setup and app deployment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim,aws,bootstrap,flutter,gmail,kubernetes" />
+<img src="https://skillicons.dev/icons?                                                                                                         i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim,aws,bootstrap," /> 
   </a>
 </p>
 
