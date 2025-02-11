@@ -23,7 +23,7 @@
 - Experience with **Webmin**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=C++,TypeScript,PHP,MongoDB,Python,Express.js,git,Redux,Bash,MySQL,Django,PostgreSQL,Maria DB,AWS,Flask" /> 
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,sass,bootstrap,figma" />
   </a>
 </p>
 
