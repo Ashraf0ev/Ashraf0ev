@@ -24,7 +24,7 @@
 - Experience with **Webmin**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,flask,python,fastapi,cpp,express,postgres,java" />
+    <img src="https://skillicons.dev/icons?i=git,django,flask,python,fastapi,express,postgres,java" />
   </a>
 </p>
 
