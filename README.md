@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi👋I'm Ashraf Muxtorjonov!</h1>
+# <h1 align="center">Hi👋I'm Ashraf Muxtorjonov!</h1>
 
 ## 💻 About Me
 - 🌍 Full Stack Developer with a strong focus on backend development.
@@ -23,7 +23,7 @@
 - Experience with **Webmin**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,flask,python,fastapi,cpp,express,mongodb,postgres,java" />
+    <img src="https://skillicons.dev/icons?i=git,django,flask,python,fastapi,cpp,express,postgres,java" />
   </a>
 </p>
 
@@ -37,11 +37,11 @@
 </p>
 
 ### DevOps:
-- Knowledge of **Bash**, using **Zsh*
+- Knowledge of **Bash**, using **Zsh**
 - Server setup and app deployment
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?                                                                                                         i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim,aws,bootstrap," /> 
+    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim,aws,bootstrap /> 
   </a>
 </p>
 
