@@ -15,6 +15,7 @@
 - 🛠 Love automating processes, working with databases, and managing server environments.
 
 ---
+
 ## 🛠 Skills
 ### Backend:
 - Python (Django, ORM Peewee)
