@@ -23,8 +23,54 @@
 - Experience with **Webmin**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,flask,python,fastapi,aws,cpp,express,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,django,flask,python,fastapi,cpp,express,mongodb,postgres,java" />
   </a>
 </p>
 
+### Frontend:
+- JavaScript, React
+- HTML5, CSS3
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,sass,bootstrap,figma,ae,electron,nestjs" />
+  </a>
+</p>
+### DevOps:
+- Knowledge of **Bash**, using **Zsh**
+- Server setup and app deployment
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim,aws,bootstrap,flutter,gmail,kubernetes" />
+  </a>
+</p>
 
+---
+
+## 📈 What I Do
+- 🏗 Develop full-stack web applications with Django and React.
+- 🎨 Design user-friendly interfaces and prototypes in Figma.
+- 🌐 Manage and configure server environments with Nginx, Apache2, and Webmin.
+- 📊 Work with relational databases like MySQL, MariaDB, and PostgreSQL.
+
+---
+
+## 📩 Contact
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ashrafjon_Mukhtorjonov@student.itpu.uz)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ashraf_571)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-mukhtorjonov-01853632b)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ashik_4551/)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Ashraf0ev)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashraf0ev)
+
+---
+## 🚀 Goals for 2025
+- Master advanced React concepts and improve frontend development skills.
+- Contribute to open-source projects and strengthen my community presence.
+- Master Docker and containerization to streamline application deployment.
+- Deepen my knowledge of server environment management and DevOps practices.
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+</div>
